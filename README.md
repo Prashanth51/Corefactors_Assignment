@@ -16,6 +16,8 @@ created accuonts app and added app into the settings.py
 added required views for sing-up,login ,logout for validations purpose
 created html files for userinterface purpose
 created url.py files in two apps and added all urls according to viwes 
+mapped all urls.file into urls.py under Corefactors_Assignment directory
+
 
 
 
