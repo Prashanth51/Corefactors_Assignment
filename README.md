@@ -1,7 +1,7 @@
 # Corefactors_Assignment
 
 installed python and django in local machine
-intalled PyCharm to develop blog site
+installed PyCharm to develop blog site
 Created Corefactors_Assignment project in pycharm
 Created blog app (using py manage.py startapp blog).
 Cofigured blog app in settings.py
